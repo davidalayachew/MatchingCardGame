@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase=
+"https://davidalayachew.github.io/MatchingCardGame" 
+    href="MatchingCardGame.jnlp">
+    <information>
+        <title>MatchingCardGame Title</title>
+        <vendor>MatchingCardGame Vendor</vendor>
+    </information>
+    <resources>
+        <!-- Application Resources -->
+        <j2se version="1.7+"
+              href="http://java.sun.com/products/autodl/j2se"/>
+        <jar href="MatchingCardGame.jar"
+            main="true" />
+
+    </resources>
+    <application-desc
+         name="MatchingCardGame application-desc name"
+         main-class=
+	    "MatchingCardGame"
+         width="300"
+         height="300">
+     </application-desc>
+     <update check="always" policy="always"/>
+</jnlp>
