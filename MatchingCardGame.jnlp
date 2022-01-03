@@ -16,7 +16,7 @@
     </resources>
     <application-desc
          name="MatchingCardGame application-desc name"
-         main-class="MatchingCardGame.class"
+         main-class="MatchingCardGame"
          width="300"
          height="300">
      </application-desc>
