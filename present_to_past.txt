@@ -1,0 +1,178 @@
+J'écris un livre~J'ai écrit un livre
+Tu écris un livre~Tu as écrit un livre
+Il écrit un livre~Il a écrit un livre
+Elle écrit un livre~Elle a écrit un livre
+Nous écrivons un livre~Nous avons écrit un livre
+Vous écrivez un livre~Vous avez écrit un livre
+Ils écrivent un livre~Ils ont écrit un livre
+Elles écrivent un livre~Elles ont écrit un livre
+Je dis la verité~J'ai dit la verité
+Tu dis la verité~Tu as dit la verité
+Il dit la verité~Il a dit la verité
+Elle dit la verité~Elle a dit la verité
+Nous disons la verité~Nous avons dit la verité
+Vous dites la verité~Vous avez dit la verité
+Ils disent la verité~Ils ont dit la verité
+Elles disent la verité~Elles ont dit la verité
+Je suis un programmeur~J'ai été un programmeur
+Tu es un programmeur~Tu as été un programmeur
+Il est un programmeur~Il a été un programmeur
+Elle est un programmeur~Elle a été un programmeur
+Nous sommes un programmeur~Nous avons été un programmeur
+Vous êtes un programmeur~Vous avez été un programmeur
+Ils sont un programmeur~Ils ont été un programmeur
+Elles sont un programmeur~Elles ont été un programmeur
+je connais mon chien~J'ai connu mon chien
+tu connais mon chien~Tu as connu mon chien
+il connaît mon chien~Il a connu mon chien
+elle connaît mon chien~Elle a connu mon chien
+nous connaissons mon chien~Nous avons connu mon chien
+vous connaissez mon chien~Vous avez connu mon chien
+ils connaissent mon chien~Ils ont connu mon chien
+elles connaissent mon chien~Elles ont connu mon chien
+je ne connais pas mon chien~Je n'ai pas connu mon chien
+tu ne connais pas mon chien~Tu n'as pas connu mon chien
+il ne connaît pas mon chien~Il n'a pas connu mon chien
+elle ne connaît pas mon chien~Elle n'a pas connu mon chien
+nous ne connaissons pas mon chien~Nous n'avons pas connu mon chien
+vous ne connaissez pas mon chien~Vous n'avez pas connu mon chien
+ils ne connaissent pas mon chien~Ils n'ont pas connu mon chien
+elles ne connaissent pas mon chien~Elles n'ont pas connu mon chien
+je lis la bible~J'ai lu la bible
+tu lis la bible~tu as lu la bible
+il lit la bible~Il a lu la bible
+elle lit la bible~elle a lu la bible
+nous lisons la bible~Nous avons lu la bible
+vous lisez la bible~Vous avez lu la bible
+ils lisent la bible~Ils ont lu la bible
+elles lisent la bible~Elles ont lu la bible
+Je vois ma mère~J'ai vu ma mère
+Tu vois ma mère~Tu as vu ma mère
+Il voit ma mère~Il a vu ma mère
+Elle voit ma mère~Elle a vu ma mère
+Nous voyons ma mère~Nous avons vu ma mère
+Vous voyez ma mère~Vous avez vu ma mère
+Ils voient ma mère~Ils ont vu ma mère
+Elles voient ma mère~Elles ont vu ma mère
+Je crois son ami~J'ai cru son ami
+Tu crois son ami~Tu as cru son ami
+Il croit son ami~Il a cru son ami
+Elle croit son ami~Elle a cru son ami
+Nous croyons son ami~Nous avons cru son ami
+Vous croyez son ami~Vous avez cru son ami
+Ils croient son ami~Ils ont cru son ami
+Elles croient son ami~Elles ont cru son ami
+Je bois l'eau~J'ai bu l'eau
+Tu bois l'eau~Tu as bu l'eau
+Il boit l'eau~Il a bu l'eau
+Elle boit l'eau~Elle a bu l'eau
+Nous buvons l'eau~Nous avons bu l'eau
+Vous buvez l'eau~Vous avez bu l'eau
+Ils boivent l'eau~Ils ont bu l'eau
+Elles boivent l'eau~Elles ont bu l'eau
+J'ai notre ordinateur~J'ai eu notre ordinateur
+Tu as notre ordinateur~Tu as eu notre ordinateur
+Il a notre ordinateur~Il a eu notre ordinateur
+Elle a notre ordinateur~Elle a eu notre ordinateur
+Nous avons notre ordinateur~Nous avons eu notre ordinateur
+Vous avez notre ordinateur~Vous avez eu notre ordinateur
+Ils ont notre ordinateur~Ils ont eu notre ordinateur
+Elles ont notre ordinateur~Elles ont eu notre ordinateur
+Je fais ton travail~J'ai fait ton travail
+Tu fais ton travail~Tu as fait ton travail
+Il fait ton travail~Il a fait ton travail
+Elle fait ton travail~Elle a fait ton travail
+Nous faisons ton travail~Nous avons fait ton travail
+Vous faites ton travail~Vous avez fait ton travail
+Ils font ton travail~Ils ont fait ton travail
+Elles font ton travail~Elles ont fait ton travail
+Je ne prends jamais son chapeau~Je n'ai jamais pris son chapeau
+Tu ne prends jamais son chapeau~Tu n'as jamais pris son chapeau
+Il ne prend jamais son chapeau~Il n'a jamais pris son chapeau
+Elle ne prend jamais son chapeau~Elle n'a jamais pris son chapeau
+Nous ne prenons jamais son chapeau~Nous n'avons jamais pris son chapeau
+Vous ne prenez jamais son chapeau~Vous n'avez jamais pris son chapeau
+Ils ne prennent jamais son chapeau~Ils n'ont jamais pris son chapeau
+Elles ne prennent jamais son chapeau~Elles n'ont jamais pris son chapeau
+J'apprends les lois~J'ai appris les lois
+Tu apprends les lois~Tu as appris les lois
+Il apprend les lois~Il a appris les lois
+Elle apprend les lois~Elle a appris les lois
+Nous apprenons les lois~Nous avons appris les lois
+Vous apprenez les lois~Vous avez appris les lois
+Ils apprennent les lois~Ils ont appris les lois
+Elles apprennent les lois~Elles ont appris les lois
+Je comprends l'anglais~J'ai compris l'anglais
+Tu comprends l'anglais~Tu as compris l'anglais
+Il comprend l'anglais~Il a compris l'anglais
+Elle comprend l'anglais~Elle a compris l'anglais
+Nous comprenons l'anglais~Nous avons compris l'anglais
+Vous comprenez l'anglais~Vous avez compris l'anglais
+Ils comprennent l'anglais~Ils ont compris l'anglais
+Elles comprennent l'anglais~Elles ont compris l'anglais
+Je mets ses rideaux~J'ai mis ses rideaux
+Tu mets ses rideaux~Tu as mis ses rideaux
+Il met ses rideaux~Il a mis ses rideaux
+Elle met ses rideaux~Elle a mis ses rideaux
+Nous mettons ses rideaux~Nous avons mis ses rideaux
+Vous mettez ses rideaux~Vous avez mis ses rideaux
+Ils mettent ses rideaux~Ils ont mis ses rideaux
+Elles mettent ses rideaux~Elles ont mis ses rideaux
+Je permets~J'ai permis
+Tu permets~Tu as permis
+Il permet~Il a permis
+Elle permet~Elle a permis
+Nous permettons~Nous avons permis
+Vous permettez~Vous avez permis
+Ils permettent~Ils ont permis
+Elles permettent~Elles ont permis
+Je peux~J'ai pu
+Tu peux~Tu as pu
+Il peut~Il a pu
+Elle peut~Elle a pu
+Nous pouvons~Nous avons pu
+Vous pouvez~Vous avez pu
+Ils peuvent~Ils ont pu
+Elles peuvent~Elles ont pu
+Je veux~J'ai voulu
+Tu veux~Tu as voulu
+Il veut~Il a voulu
+Elle veut~Elle a voulu
+Nous voulons~Nous avons voulu
+Vous voulez~Vous avez voulu
+Ils veulent~Ils ont voulu
+Elles veulent~Elles ont voulu
+Je cours~J'ai couru
+Tu cours~Tu as couru
+Il court~Il a couru
+Elle court~Elle a couru
+Nous courons~Nous avons couru
+Vous courez~Vous avez couru
+Ils courent~Ils ont couru
+Elles courent~Elles ont couru
+Je dois~J'ai dû
+Tu dois~Tu as dû
+Il doit~Il a dû
+Elle doit~Elle a dû
+Nous devons~Nous avons dû
+Vous devez~Vous avez dû
+Ils doivent~Ils ont dû
+Elles doivent~Elles ont dû
+Il pleut~Il a plu
+Ils pleuvent~Ils ont plu
+Je sais~J'ai su
+Tu sais~Tu as su
+Il sait~Il a su
+Elle sait~Elle a su
+Nous savons~Nous avons su
+Vous savez~Vous avez su
+Ils savent~Ils ont su
+Elles savent~Elles ont su
+Je reçois~J'ai reçu
+Tu reçois~Tu as reçu
+Il reçoit~Il a reçu
+Elle reçoit~Elle a reçu
+Nous recevons~Nous avons reçu
+Vous recevez~Vous avez reçu
+Ils reçoivent~Ils ont reçu
+Elles reçoivent~Elles ont reçu

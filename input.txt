@@ -1,0 +1,52 @@
+De quelle couleur est~What color is
+De quelle couleur sont~What color are
+blanc~white
+bleu(e)~blue
+gris(e)~gray
+jaune~yellow
+marron~brown
+noir(e)~black
+orange (french)~orange (english)
+rose~pink
+rouge~red
+vert(e)~green
+violet(te)~purple or violet
+multicolore~multicolor or rainbow
+À rayures/rayé(e)~striped
+À carreaux~checked
+Écossais(e)~plaid
+À fleurs/fleuri(e)~flowered
+À pois~Polka dotted
+Teint au noeud~Tie dyed
+confortable~comfortable
+inconfortable~uncomfortable
+une tenue~an outfit
+un anorak~a winter (ski) jacket
+des baskets~tennis shoes
+un blouson~a jacket
+une casquette~a (baseball) cap
+un chapeau~a hat
+une chaussette~a sock
+une chaussure~a shoe
+une chemise~a shirt
+une chemise à manches courtes~a short sleeved shirt
+une chemise à manches longues~a long sleeved shirt
+un chemisier~a blouse
+un costume~a man’s suit
+une cravate~a tie
+une écharpe~a scarf
+un gant~a glove
+une moufle~A mitten
+un jean~jeans
+une jupe~a skirt
+des lunettes~glasses
+des lunettes de soleil~sun glasses
+un maillot de bain~a bathing suit
+un manteau~a coat
+un pantalon~pants
+un pull~a sweater
+une robe~a dress
+un short~shorts
+un sous-vêtement~an underwear
+un tailleur~a (woman’s) suit; a tailor (profession)
+un t-shirt~a t-shirt

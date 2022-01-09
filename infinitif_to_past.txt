@@ -1,0 +1,178 @@
+J' ___(écrire) un livre~J'ai écrit un livre
+Tu ___(écrire) un livre~Tu as écrit un livre
+Il ___(écrire) un livre~Il a écrit un livre
+Elle ___(écrire) un livre~Elle a écrit un livre
+Nous ___(écrire) un livre~Nous avons écrit un livre
+Vous ___(écrire) un livre~Vous avez écrit un livre
+Ils ___(écrire) un livre~Ils ont écrit un livre
+Elles ___(écrire) un livre~Elles ont écrit un livre
+Je ___(dire) la verité~J'ai dit la verité
+Tu ___(dire) la verité~Tu as dit la verité
+Il ___(dire) la verité~Il a dit la verité
+Elle ___(dire) la verité~Elle a dit la verité
+Nous ___(dire) la verité~Nous avons dit la verité
+Vous ___(dire) la verité~Vous avez dit la verité
+Ils ___(dire) la verité~Ils ont dit la verité
+Elles ___(dire) la verité~Elles ont dit la verité
+Je ___(être) un programmeur~J'ai été un programmeur
+Tu ___(être) un programmeur~Tu as été un programmeur
+Il ___(être) un programmeur~Il a été un programmeur
+Elle ___(être) un programmeur~Elle a été un programmeur
+Nous ___(être) un programmeur~Nous avons été un programmeur
+Vous ___(être) un programmeur~Vous avez été un programmeur
+Ils ___(être) un programmeur~Ils ont été un programmeur
+Elles ___(être) un programmeur~Elles ont été un programmeur
+je ___(connaître) mon chien~J'ai connu mon chien
+tu ___(connaître) mon chien~Tu as connu mon chien
+il ___(connaître) mon chien~Il a connu mon chien
+elle ___(connaître) mon chien~Elle a connu mon chien
+nous ___(connaître) mon chien~Nous avons connu mon chien
+vous ___(connaître) mon chien~Vous avez connu mon chien
+ils ___(connaître) mon chien~Ils ont connu mon chien
+elles ___(connaître) mon chien~Elles ont connu mon chien
+je ne ___(connaître) pas mon chien~Je n'ai pas connu mon chien
+tu ne ___(connaître) pas mon chien~Tu n'as pas connu mon chien
+il ne ___(connaître) pas mon chien~Il n'a pas connu mon chien
+elle ne ___(connaître) pas mon chien~Elle n'a pas connu mon chien
+nous ne ___(connaître) pas mon chien~Nous n'avons pas connu mon chien
+vous ne ___(connaître) pas mon chien~Vous n'avez pas connu mon chien
+ils ne ___(connaître) pas mon chien~Ils n'ont pas connu mon chien
+elles ne ___(connaître) pas mon chien~Elles n'ont pas connu mon chien
+je ___(lire) la bible~J'ai lu la bible
+tu ___(lire) la bible~tu as lu la bible
+il ___(lire) la bible~Il a lu la bible
+elle ___(lire) la bible~elle a lu la bible
+nous ___(lire) la bible~Nous avons lu la bible
+vous ___(lire) la bible~Vous avez lu la bible
+ils ___(lire) la bible~Ils ont lu la bible
+elles ___(lire) la bible~Elles ont lu la bible
+Je ___(voir) ma mère~J'ai vu ma mère
+Tu ___(voir) ma mère~Tu as vu ma mère
+Il ___(voir) ma mère~Il a vu ma mère
+Elle ___(voir) ma mère~Elle a vu ma mère
+Nous ___(voir) ma mère~Nous avons vu ma mère
+Vous ___(voir) ma mère~Vous avez vu ma mère
+Ils ___(voir) ma mère~Ils ont vu ma mère
+Elles ___(voir) ma mère~Elles ont vu ma mère
+Je ___(croire) son ami~J'ai cru son ami
+Tu ___(croire) son ami~Tu as cru son ami
+Il ___(croire) son ami~Il a cru son ami
+Elle ___(croire) son ami~Elle a cru son ami
+Nous ___(croire) son ami~Nous avons cru son ami
+Vous ___(croire) son ami~Vous avez cru son ami
+Ils ___(croire) son ami~Ils ont cru son ami
+Elles ___(croire) son ami~Elles ont cru son ami
+Je ___(boire) l'eau~J'ai bu l'eau
+Tu ___(boire) l'eau~Tu as bu l'eau
+Il ___(boire) l'eau~Il a bu l'eau
+Elle ___(boire) l'eau~Elle a bu l'eau
+Nous ___(boire) l'eau~Nous avons bu l'eau
+Vous ___(boire) l'eau~Vous avez bu l'eau
+Ils ___(boire) l'eau~Ils ont bu l'eau
+Elles ___(boire) l'eau~Elles ont bu l'eau
+J' ___(avoir) notre ordinateur~J'ai eu notre ordinateur
+Tu ___(avoir) notre ordinateur~Tu as eu notre ordinateur
+Il ___(avoir) notre ordinateur~Il a eu notre ordinateur
+Elle ___(avoir) notre ordinateur~Elle a eu notre ordinateur
+Nous ___(avoir) notre ordinateur~Nous avons eu notre ordinateur
+Vous ___(avoir) notre ordinateur~Vous avez eu notre ordinateur
+Ils ___(avoir) notre ordinateur~Ils ont eu notre ordinateur
+Elles ___(avoir) notre ordinateur~Elles ont eu notre ordinateur
+Je ___(faire) ton travail~J'ai fait ton travail
+Tu ___(faire) ton travail~Tu as fait ton travail
+Il ___(faire) ton travail~Il a fait ton travail
+Elle ___(faire) ton travail~Elle a fait ton travail
+Nous ___(faire) ton travail~Nous avons fait ton travail
+Vous ___(faire) ton travail~Vous avez fait ton travail
+Ils ___(faire) ton travail~Ils ont fait ton travail
+Elles ___(faire) ton travail~Elles ont fait ton travail
+Je ___(prendre) prends jamais son chapeau~Je n'ai jamais pris son chapeau
+Tu ___(prendre) prends jamais son chapeau~Tu n'as jamais pris son chapeau
+Il ___(prendre) prend jamais son chapeau~Il n'a jamais pris son chapeau
+Elle ___(prendre) prend jamais son chapeau~Elle n'a jamais pris son chapeau
+Nous ___(prendre) prenons jamais son chapeau~Nous n'avons jamais pris son chapeau
+Vous ___(prendre) prenez jamais son chapeau~Vous n'avez jamais pris son chapeau
+Ils ___(prendre) prennent jamais son chapeau~Ils n'ont jamais pris son chapeau
+Elles ___(prendre) prennent jamais son chapeau~Elles n'ont jamais pris son chapeau
+J' ___(apprendre) les lois~J'ai appris les lois
+Tu ___(apprendre) les lois~Tu as appris les lois
+Il ___(apprendre) les lois~Il a appris les lois
+Elle ___(apprendre) les lois~Elle a appris les lois
+Nous ___(apprendre) les lois~Nous avons appris les lois
+Vous ___(apprendre) les lois~Vous avez appris les lois
+Ils ___(apprendre) les lois~Ils ont appris les lois
+Elles ___(apprendre) les lois~Elles ont appris les lois
+Je ___(comprendre) l'anglais~J'ai compris l'anglais
+Tu ___(comprendre) l'anglais~Tu as compris l'anglais
+Il ___(comprendre) l'anglais~Il a compris l'anglais
+Elle ___(comprendre) l'anglais~Elle a compris l'anglais
+Nous ___(comprendre) l'anglais~Nous avons compris l'anglais
+Vous ___(comprendre) l'anglais~Vous avez compris l'anglais
+Ils ___(comprendre) l'anglais~Ils ont compris l'anglais
+Elles ___(comprendre) l'anglais~Elles ont compris l'anglais
+Je ___(mettre) ses rideaux~J'ai mis ses rideaux
+Tu ___(mettre) ses rideaux~Tu as mis ses rideaux
+Il ___(mettre) ses rideaux~Il a mis ses rideaux
+Elle ___(mettre) ses rideaux~Elle a mis ses rideaux
+Nous ___(mettre) ses rideaux~Nous avons mis ses rideaux
+Vous ___(mettre) ses rideaux~Vous avez mis ses rideaux
+Ils ___(mettre) ses rideaux~Ils ont mis ses rideaux
+Elles ___(mettre) ses rideaux~Elles ont mis ses rideaux
+Je ___(permettre)~J'ai permis
+Tu ___(permettre)~Tu as permis
+Il ___(permettre)~Il a permis
+Elle ___(permettre)~Elle a permis
+Nous ___(permettre)~Nous avons permis
+Vous ___(permettre)~Vous avez permis
+Ils ___(permettre)~Ils ont permis
+Elles ___(permettre)~Elles ont permis
+Je ___(pouvoir)~J'ai pu
+Tu ___(pouvoir)~Tu as pu
+Il ___(pouvoir)~Il a pu
+Elle ___(pouvoir)~Elle a pu
+Nous ___(pouvoir)~Nous avons pu
+Vous ___(pouvoir)~Vous avez pu
+Ils ___(pouvoir)~Ils ont pu
+Elles ___(pouvoir)~Elles ont pu
+Je ___(vouloir)~J'ai voulu
+Tu ___(vouloir)~Tu as voulu
+Il ___(vouloir)~Il a voulu
+Elle ___(vouloir)~Elle a voulu
+Nous ___(vouloir)~Nous avons voulu
+Vous ___(vouloir)~Vous avez voulu
+Ils ___(vouloir)~Ils ont voulu
+Elles ___(vouloir)~Elles ont voulu
+Je ___(courir)~J'ai couru
+Tu ___(courir)~Tu as couru
+Il ___(courir)~Il a couru
+Elle ___(courir)~Elle a couru
+Nous ___(courir)~Nous avons couru
+Vous ___(courir)~Vous avez couru
+Ils ___(courir)~Ils ont couru
+Elles ___(courir)~Elles ont couru
+Je ___(devoir)~J'ai dû
+Tu ___(devoir)~Tu as dû
+Il ___(devoir)~Il a dû
+Elle ___(devoir)~Elle a dû
+Nous ___(devoir)~Nous avons dû
+Vous ___(devoir)~Vous avez dû
+Ils ___(devoir)~Ils ont dû
+Elles ___(devoir)~Elles ont dû
+Il ___(pleuvoir)~Il a plu
+Ils ___(pleuvoir)~Ils ont plu
+Je ___(savoir)~J'ai su
+Tu ___(savoir)~Tu as su
+Il ___(savoir)~Il a su
+Elle ___(savoir)~Elle a su
+Nous ___(savoir)~Nous avons su
+Vous ___(savoir)~Vous avez su
+Ils ___(savoir)~Ils ont su
+Elles ___(savoir)~Elles ont su
+Je ___(recevoir)~J'ai reçu
+Tu ___(recevoir)~Tu as reçu
+Il ___(recevoir)~Il a reçu
+Elle ___(recevoir)~Elle a reçu
+Nous ___(recevoir)~Nous avons reçu
+Vous ___(recevoir)~Vous avez reçu
+Ils ___(recevoir)~Ils ont reçu
+Elles ___(recevoir)~Elles ont reçu
