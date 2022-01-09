@@ -8,7 +8,7 @@
     </information>
     <resources>
         <jar href="target/MatchingCardGame-1.0-SNAPSHOT.jar" main="true" />
-        <j2se version="1.7+" href="http://java.sun.com/products/autodl/j2se"/>
+        <j2se version="16+" href="http://java.sun.com/products/autodl/j2se"/>
     </resources>
     <application-desc
          name="MatchingCardGame application-desc name"
