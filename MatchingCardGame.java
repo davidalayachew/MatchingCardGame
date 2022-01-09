@@ -49,6 +49,8 @@ public class MatchingCardGame
    public static void main(String[] args) throws IOException
    {
    
+      System.out.println("Starting");
+   
       List<String> pairs = Files.readAllLines(Paths.get("./input.txt"), Charset.forName("UTF-8"));  
    
       List<String> elements = extractElementsFromPairs(pairs);
