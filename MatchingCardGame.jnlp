@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jnlp spec="1.0+"
+<jnlp spec="6.0+"
     codebase="https://davidalayachew.github.io/MatchingCardGame" 
     href="MatchingCardGame.jnlp">
     <information>
@@ -12,7 +12,6 @@
     </resources>
     <application-desc
          name="MatchingCardGame application-desc name"
-         main-class="MatchingCardGame"
          width="300"
          height="300">
     </application-desc>
