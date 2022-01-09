@@ -5,8 +5,10 @@ import java.awt.Font;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
+import java.io.BufferedReader;
 import java.io.File;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.IOException;
 
 import java.net.URI;
@@ -25,6 +27,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
+import java.util.stream.Collectors;
 
 public class MatchingCardGame
 {
@@ -63,14 +66,10 @@ public class MatchingCardGame
       try (InputStream in = MatchingCardGame.class.getClassLoader().getResource("input.txt").openStream())
       {
       
-         //Path tempFile = Files.createTempFile("MatchingCardGameInputFile", null);
-         Path tempFile = Files.createFile(new File("MatchingCardGameInputFile").toPath());
-      
-         Files.copy(in, tempFile, StandardCopyOption.REPLACE_EXISTING);
-         
-         pairs = Files.readAllLines(tempFile, Charset.forName("UTF-8"));
-         
-         Files.delete(tempFile);
+         pairs = new BufferedReader(new InputStreamReader(in, Charset.forName("UTF-8")))
+                                             .lines()
+                                             .parallel()
+                                             .collect(Collectors.toList());
       
       }
       
