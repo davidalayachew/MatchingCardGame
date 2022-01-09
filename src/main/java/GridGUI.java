@@ -131,7 +131,7 @@ public class GridGUI
    private static boolean contains(JButton button, String text)
    {
    
-      return button.getActionCommand().toUpperCase().contains(text.trim().toUpperCase()) && !text.trim().isBlank();
+      return button.getActionCommand().toUpperCase().contains(text.trim().toUpperCase()) && !text.trim().isEmpty();
    
    }
    
@@ -236,7 +236,7 @@ public class GridGUI
          
             public void removeUpdate(DocumentEvent e) { performCtrlF(e, buttons, elementStates); }
             
-            private static void performCtrlF(DocumentEvent e, List<JButton> buttons, Map<String, SelectState> elementStates)
+            private void performCtrlF(DocumentEvent e, List<JButton> buttons, Map<String, SelectState> elementStates)
             {
             
                try
@@ -248,33 +248,47 @@ public class GridGUI
                   for (JButton each : buttons)
                   {
                   
-                     if (!text.trim().isBlank() && contains(each, text))
+                     if (!text.trim().isEmpty() && contains(each, text))
                      {
                      
-                        each.setBackground(
-                           switch(elementStates.get(each.getActionCommand())) {
+                        Color tempColor;
+                     
+                        switch(elementStates.get(each.getActionCommand())) {
                            
-                              case UNSELECTED -> CTRL_F_COLOR;
-                              case SELECTED   -> SELECTED_COLOR;
-                              case SOLVED     -> SOLVED_COLOR;
+                           case UNSELECTED: tempColor = CTRL_F_COLOR; 
+                              break;
+                           case SELECTED:   tempColor = SELECTED_COLOR; 
+                              break;
+                           case SOLVED:     tempColor = SOLVED_COLOR; 
+                              break;
+                           default:
+                              throw new IllegalStateException("Shouldn't be able to get here!");
                            
-                           }
-                           );
+                        }
+                     
+                        each.setBackground(tempColor);
                      
                      }
                      
                      else
                      {
                      
-                        each.setBackground(
-                           switch(elementStates.get(each.getActionCommand())) {
+                        Color tempColor;
+                     
+                        switch(elementStates.get(each.getActionCommand())) {
                            
-                              case UNSELECTED -> UNSELECTED_COLOR;
-                              case SELECTED   -> SELECTED_COLOR;
-                              case SOLVED     -> SOLVED_COLOR;
+                           case UNSELECTED: tempColor = UNSELECTED_COLOR; 
+                              break;
+                           case SELECTED:   tempColor = SELECTED_COLOR; 
+                              break;
+                           case SOLVED:     tempColor = SOLVED_COLOR; 
+                              break;
+                           default:
+                              throw new IllegalStateException("Shouldn't be able to get here!");
                            
-                           }
-                           );
+                        }
+                     
+                        each.setBackground(tempColor);
                      
                      }
                   
@@ -421,7 +435,7 @@ public class GridGUI
                
             } 
               
-            private static JButton fetchButtonByActionCommand(String actionCommand, List<JButton> buttons)
+            private JButton fetchButtonByActionCommand(String actionCommand, List<JButton> buttons)
             {
             
                for (JButton each : buttons)
@@ -440,7 +454,7 @@ public class GridGUI
             
             }
          
-            private static void resetElementStates(Map<String, SelectState> elementStates, List<JButton> buttons, String text)
+            private void resetElementStates(Map<String, SelectState> elementStates, List<JButton> buttons, String text)
             {
             
                for (Map.Entry<String, SelectState> each : elementStates.entrySet())
