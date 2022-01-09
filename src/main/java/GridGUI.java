@@ -60,7 +60,7 @@ public class GridGUI
    
       JFrame frame = new JFrame();
       
-      frame.setTitle("Matching Card Game!");
+      frame.setTitle("Matching Card Game");
       frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       frame.setExtendedState(JFrame.MAXIMIZED_BOTH);
    
