@@ -242,7 +242,7 @@ public class GridGUI
                try
                {
                
-                  final String text = e.getDocument().getText(0, e.getOffset() + 1);
+                  final String text = e.getDocument().getText(0, e.getDocument().getLength());
                   
                   
                   for (JButton each : buttons)

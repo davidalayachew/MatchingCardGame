@@ -15,14 +15,12 @@ s#k0
 s#j0
 s#l0
 !125;u
-a0	b196	c255	f%\011MatchingCardGame.jar	g%\011MatchingCardGame.zip	hManifest-Version\0111.0\011Main-Class\011MatchingCardGame!80;g
+a0	b196	c255	f%\011MatchingCardGame.jar	g%\011MatchingCardGame.zip	hManifest-Version\0111.0\011Main-Class\011MatchingCardGame!65;g
 %\011GridGUI.java
-%\011input.txt
 %\011MatchingCardGame.java
 %\011SingleGUI.java
-!80;f
+!65;f
 %\011GridGUI.java
-%\011input.txt
 %\011MatchingCardGame.java
 %\011SingleGUI.java
 !31;l
