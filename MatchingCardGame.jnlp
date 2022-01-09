@@ -10,9 +10,8 @@
         <!-- Application Resources -->
         <j2se version="1.7+"
               href="http://java.sun.com/products/autodl/j2se"/>
-        <jar href="MatchingCardGame.jar"
+        <jar href="target/MatchingCardGame-1.0-SNAPSHOT.jar"
             main="true" />
-
     </resources>
     <application-desc
          name="MatchingCardGame application-desc name"
