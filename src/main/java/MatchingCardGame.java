@@ -1,15 +1,21 @@
+import javax.swing.JOptionPane;
+import javax.swing.text.JTextComponent;
+
 import java.awt.Font;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-import javax.swing.JOptionPane;
-import javax.swing.text.JTextComponent;
-
 import java.io.File;
+import java.io.InputStream;
 import java.io.IOException;
 
+import java.net.URI;
+import java.net.URISyntaxException;
+
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
 import java.nio.charset.Charset;
 
 import java.util.Arrays;
@@ -18,6 +24,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Objects;
 
 public class MatchingCardGame
 {
@@ -35,7 +42,7 @@ public class MatchingCardGame
    private static final char SPLIT_CHAR = '~';
    protected static final Font DEFAULT_FONT = new Font("Consolas", Font.BOLD, 15);
    
-   public static final String[] specialCharacters = "üûùœôïîëêéèçæäâà".split("");
+   public static final String[] specialCharacters = "ï¢•ï¢”×©Âœ×¤×Ÿ××›×š×™×˜×—×–×”×’×".split("");
    public static final List<String> specialCharactersShuffled = new ArrayList<>();
    
    static
@@ -50,9 +57,31 @@ public class MatchingCardGame
    {
    
       System.out.println("Starting");
+      
+      List<String> pairs = null;  
    
-      List<String> pairs = Files.readAllLines(Paths.get("./input.txt"), Charset.forName("UTF-8"));  
-   
+      try (InputStream in = MatchingCardGame.class.getClassLoader().getResource("input.txt").openStream())
+      {
+      
+         Path tempFile = Files.createTempFile("MatchingCardGameInputFile", null);
+      
+         Files.copy(in, tempFile, StandardCopyOption.REPLACE_EXISTING);
+         
+         pairs = Files.readAllLines(tempFile, Charset.forName("UTF-8"));
+         
+         Files.delete(tempFile);
+      
+      }
+      
+      catch (IOException e)
+      {
+      
+         throw new IllegalStateException("Couldn't open the file", e);
+      
+      }
+      
+      Objects.requireNonNull(pairs);
+      
       List<String> elements = extractElementsFromPairs(pairs);
       
       switch (fetchMode())
