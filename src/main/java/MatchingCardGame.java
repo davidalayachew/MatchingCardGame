@@ -63,7 +63,8 @@ public class MatchingCardGame
       try (InputStream in = MatchingCardGame.class.getClassLoader().getResource("input.txt").openStream())
       {
       
-         Path tempFile = Files.createTempFile("MatchingCardGameInputFile", null);
+         //Path tempFile = Files.createTempFile("MatchingCardGameInputFile", null);
+         Path tempFile = Files.createFile(new File("MatchingCardGameInputFile").toPath());
       
          Files.copy(in, tempFile, StandardCopyOption.REPLACE_EXISTING);
          
