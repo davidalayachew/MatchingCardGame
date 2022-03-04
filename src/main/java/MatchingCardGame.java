@@ -45,7 +45,7 @@ public class MatchingCardGame
    private static final char SPLIT_CHAR = '~';
    protected static final Font DEFAULT_FONT = new Font("Consolas", Font.BOLD, 15);
    
-   public static final String[] specialCharacters = "שפןמכךיטחזהגא".split("");
+   public static final String[] specialCharacters = "àâäæçèéêëîïôùûüœ".split("");
    public static final List<String> specialCharactersShuffled = new ArrayList<>();
    
    static

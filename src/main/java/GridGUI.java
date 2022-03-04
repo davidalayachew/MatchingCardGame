@@ -248,23 +248,17 @@ public class GridGUI
                   for (JButton each : buttons)
                   {
                   
+                     SelectState actionCommand = elementStates.get(each.getActionCommand());
+                  
                      if (!text.trim().isEmpty() && contains(each, text))
                      {
                      
-                        Color tempColor;
-                     
-                        switch(elementStates.get(each.getActionCommand())) {
-                           
-                           case UNSELECTED: tempColor = CTRL_F_COLOR; 
-                              break;
-                           case SELECTED:   tempColor = SELECTED_COLOR; 
-                              break;
-                           case SOLVED:     tempColor = SOLVED_COLOR; 
-                              break;
-                           default:
-                              throw new IllegalStateException("Shouldn't be able to get here!");
-                           
-                        }
+                        Color tempColor = 
+                           switch(actionCommand) {
+                              case UNSELECTED   -> CTRL_F_COLOR;
+                              case SELECTED     -> SELECTED_COLOR;
+                              case SOLVED       -> SOLVED_COLOR; 
+                           };
                      
                         each.setBackground(tempColor);
                      
@@ -273,20 +267,12 @@ public class GridGUI
                      else
                      {
                      
-                        Color tempColor;
-                     
-                        switch(elementStates.get(each.getActionCommand())) {
-                           
-                           case UNSELECTED: tempColor = UNSELECTED_COLOR; 
-                              break;
-                           case SELECTED:   tempColor = SELECTED_COLOR; 
-                              break;
-                           case SOLVED:     tempColor = SOLVED_COLOR; 
-                              break;
-                           default:
-                              throw new IllegalStateException("Shouldn't be able to get here!");
-                           
-                        }
+                        Color tempColor =
+                           switch(actionCommand) {
+                              case UNSELECTED   -> UNSELECTED_COLOR; 
+                              case SELECTED     -> SELECTED_COLOR; 
+                              case SOLVED       -> SOLVED_COLOR; 
+                           };
                      
                         each.setBackground(tempColor);
                      
@@ -334,6 +320,7 @@ public class GridGUI
             {
             
                ctrlF.requestFocus();
+               ctrlF.selectAll();
                final String text = ctrlF.getText().trim();
                   
                String element = e.getActionCommand();
