@@ -23,10 +23,10 @@ s#r0ignore/bin
 s#t0ignore/help
 s#w0ignore/canvas
 !116;g
-%\011src%smain%sjava%sSingleGUI.java
 %\011src%smain%sjava%sGridGUI.java
 %\011src%smain%sjava%sMatchingCardGame.java
+%\011src%smain%sjava%sSingleGUI.java
 !116;f
-%\011src%smain%sjava%sSingleGUI.java
 %\011src%smain%sjava%sGridGUI.java
 %\011src%smain%sjava%sMatchingCardGame.java
+%\011src%smain%sjava%sSingleGUI.java
